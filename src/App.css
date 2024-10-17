@@ -1,0 +1,8 @@
+.chart_height {
+    width: 100%; /* Make the width 100% of the parent container (Col) */
+    height: 300px; /* Set a consistent height for all charts */
+    margin-bottom: 20px; /* Optional: add some space between rows */
+    display: flex;
+    justify-content: center; /* Center the chart within the container */
+    align-items: center;
+}
